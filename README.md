@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+![](https://github.com/mrom1/mrom1-github-stats/blob/master/generated/overview.svg)
+![](https://github.com/mrom1/mrom1-github-stats/blob/master/generated/languages.svg)
+
 
 <!--
 **mrom1/mrom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
