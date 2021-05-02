@@ -12,6 +12,21 @@ For the most part, this profile existed to help me keeping track of various side
 
 <br>
 
+### Technologies I like to use
+<p align=center>
+<a href="https://en.cppreference.com/"><img alt="C++ Programming Language" title="C++ Programming Language" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_cpp.svg"></a>
+<a href=""><img alt="" title="" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_python.svg"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C Programming Language" title="C Programming Language" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_c.png"></a>
+<a href="https://github.com/mrom1"><img alt="Git" title="Git" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_git.svg"></a>
+<a href="https://www.javascript.com/"><img alt="Javascript" title="Javascript" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_js.png"></a>
+<a href="https://nuxtjs.org/"><img alt="Nuxt.js" title="Nuxt.js" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_nuxt.svg"></a>
+<a href="https://www.qt.io/"><img alt="Qt" title="Qt" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_qt.png"></a>
+<a href="https://vuejs.org/"><img alt="Vue.js" title="Vue.js" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_vuejs.svg"></a>
+<a href="https://www.opengl.org//"><img alt="OpenGL" title="OpenGL" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_opengl.svg"></a>
+</p>
+
+<br>
+
 ### Github Statistics
 <p align=center>
   <img src=https://github.com/mrom1/mrom1-github-stats/blob/master/generated/overview.svg>
