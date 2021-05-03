@@ -22,7 +22,7 @@ For the most part, this profile existed to help me keeping track of various side
 <a href="https://nuxtjs.org/"><img alt="Nuxt.js" title="Nuxt.js" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_nuxt.svg"></a>
 <a href="https://www.qt.io/"><img alt="Qt" title="Qt" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_qt.png"></a>
 <a href="https://vuejs.org/"><img alt="Vue.js" title="Vue.js" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_vuejs.svg"></a>
-<a href="https://www.opengl.org//"><img alt="OpenGL" title="OpenGL" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_opengl.svg"></a>
+<a href="https://www.linuxfoundation.org"><img alt="Linux" title="Linux" height="72" width="72" src="https://raw.githubusercontent.com/mrom1/mrom1/main/assets/logo_linux.svg"></a>
 </p>
 
 <br>
