@@ -10,6 +10,9 @@ For the most part, this profile existed to help me to keep track of various side
 
 **So stay tuned!** 😄
 
+![](https://komarev.com/ghpvc/?username=mrom1&color=orange)
+
+
 <br>
 
 ### Technologies I like to use
