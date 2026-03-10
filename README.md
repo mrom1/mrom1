@@ -1,8 +1,8 @@
 
 ### Github Statistics
 <p align=left>
-  <img src=https://github.com/mrom1/mrom1-github-stats/blob/master/generated/overview.svg>
-  <img src=https://github.com/mrom1/mrom1-github-stats/blob/master/generated/languages.svg>
+  <img src=https://raw.githubusercontent.com/mrom1/mrom1-github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only>
+  <img src=https://raw.githubusercontent.com/mrom1/mrom1-github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=mrom1&color=orange)
